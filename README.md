@@ -1,8 +1,4 @@
-# Collaborative-Code-Review--Platform
-
-# Collaborative Code Review Platform
-
-The **Collaborative Code Review Platform** is a web application that facilitates efficient code review by providing tools for collaboration, commenting, and managing review sessions.
+# Collaborative-Code-Review--Platformme
 
 ## Getting Started
 
